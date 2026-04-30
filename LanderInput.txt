@@ -1,0 +1,10 @@
+LunarLeaper 900.0 5000.0 10.0 26.0 170.0
+MoonHopper 600.0 4000.0 6.0 25.0 145.0
+GravityDodger 750.0 4500.0 7.4 22.0 150.0
+GalacticGiggle 200.0 1000.0 3.3 25.0 100.0
+MoonMischief 800.0 4800.0 8.9 23.0 160.0
+MoonDance 1500.0 5500.0 25.0 25.0 250.0
+LunacyLander 1000.0 2500.0 17.8 24.0 200.0
+StarshipStumbler 999.0 5100.0 15.0 23.0 175.0
+AstroWhoops 500.0 3000.0 5.0 23.0 120.0
+GravitationalGrazer 850.0 4700.0 8.9 25.0 158.0

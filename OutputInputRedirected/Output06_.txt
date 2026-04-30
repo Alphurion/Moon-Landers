@@ -1,0 +1,4620 @@
+
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: AstroWhoops 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 120.000000
+
+(3) Name: MoonMischief 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 160.000000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: AstroWhoops 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 120.000000
+
+(3) Name: MoonMischief 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 160.000000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: AstroWhoops 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 120.000000
+
+(3) Name: MoonMischief 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 160.000000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+(3) Name: AstroWhoops 23.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 120.000000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 22.000000 meters from the moon surface
+traveling at 0.000000 m/s
+Fuel: 150.000000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+(3) Name: StarshipStumbler 22.359999 meters from the moon surface
+traveling at -0.640001 m/s
+Fuel: 165.399990
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+(3) Name: MoonMischief 22.010000 meters from the moon surface
+traveling at -0.990000 m/s
+Fuel: 151.189000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+(3) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+(3) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+(3) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 21.340000 meters from the moon surface
+traveling at -0.660000 m/s
+Fuel: 145.116000
+
+(2) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+(3) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(2) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+(3) Name: StarshipStumbler 21.809997 meters from the moon surface
+traveling at -0.550003 m/s
+Fuel: 164.050020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(2) Name: MoonMischief 21.239998 meters from the moon surface
+traveling at -0.770002 m/s
+Fuel: 149.231020
+
+(3) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(2) Name: MoonMischief 21.239998 meters from the moon surface
+traveling at -0.770002 m/s
+Fuel: 149.231020
+
+(3) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(2) Name: MoonMischief 21.239998 meters from the moon surface
+traveling at -0.770002 m/s
+Fuel: 149.231020
+
+(3) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(2) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(3) Name: AstroWhoops 21.520003 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 115.400008
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(2) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(3) Name: StarshipStumbler 20.919995 meters from the moon surface
+traveling at -0.890002 m/s
+Fuel: 158.950037
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(2) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(3) Name: StarshipStumbler 20.919995 meters from the moon surface
+traveling at -0.890002 m/s
+Fuel: 158.950037
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(2) Name: GravityDodger 20.589998 meters from the moon surface
+traveling at -0.750002 m/s
+Fuel: 144.449984
+
+(3) Name: StarshipStumbler 20.919995 meters from the moon surface
+traveling at -0.890002 m/s
+Fuel: 158.950037
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.709994 meters from the moon surface
+traveling at -0.880004 m/s
+Fuel: 143.487971
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: StarshipStumbler 20.919995 meters from the moon surface
+traveling at -0.890002 m/s
+Fuel: 158.950037
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.709994 meters from the moon surface
+traveling at -0.880004 m/s
+Fuel: 143.487971
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.709994 meters from the moon surface
+traveling at -0.880004 m/s
+Fuel: 143.487971
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.709994 meters from the moon surface
+traveling at -0.880004 m/s
+Fuel: 143.487971
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.709994 meters from the moon surface
+traveling at -0.880004 m/s
+Fuel: 143.487971
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+(3) Name: AstroWhoops 20.570005 meters from the moon surface
+traveling at -0.949998 m/s
+Fuel: 115.250008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+(3) Name: MoonMischief 20.539993 meters from the moon surface
+traveling at -0.700004 m/s
+Fuel: 148.608039
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+(3) Name: StarshipStumbler 20.389993 meters from the moon surface
+traveling at -0.530002 m/s
+Fuel: 153.550042
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+(3) Name: StarshipStumbler 20.389993 meters from the moon surface
+traveling at -0.530002 m/s
+Fuel: 153.550042
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+(3) Name: StarshipStumbler 20.389993 meters from the moon surface
+traveling at -0.530002 m/s
+Fuel: 153.550042
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: MoonMischief 19.679989 meters from the moon surface
+traveling at -0.860004 m/s
+Fuel: 147.184042
+
+(3) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: MoonMischief 19.679989 meters from the moon surface
+traveling at -0.860004 m/s
+Fuel: 147.184042
+
+(3) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(2) Name: MoonMischief 19.679989 meters from the moon surface
+traveling at -0.860004 m/s
+Fuel: 147.184042
+
+(3) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(2) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(3) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(2) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(3) Name: AstroWhoops 19.780005 meters from the moon surface
+traveling at -0.790000 m/s
+Fuel: 114.450016
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(2) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(2) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(2) Name: GravityDodger 19.019991 meters from the moon surface
+traveling at -0.690002 m/s
+Fuel: 142.081961
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(3) Name: StarshipStumbler 19.489992 meters from the moon surface
+traveling at -0.900001 m/s
+Fuel: 148.000058
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(3) Name: AstroWhoops 19.110005 meters from the moon surface
+traveling at -0.670000 m/s
+Fuel: 113.850016
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+(3) Name: AstroWhoops 19.110005 meters from the moon surface
+traveling at -0.670000 m/s
+Fuel: 113.850016
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: MoonMischief 18.849988 meters from the moon surface
+traveling at -0.830002 m/s
+Fuel: 146.917020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 18.109991 meters from the moon surface
+traveling at -0.910000 m/s
+Fuel: 140.453975
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: StarshipStumbler 18.749989 meters from the moon surface
+traveling at -0.740003 m/s
+Fuel: 145.600092
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: StarshipStumbler 18.749989 meters from the moon surface
+traveling at -0.740003 m/s
+Fuel: 145.600092
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+(3) Name: StarshipStumbler 18.749989 meters from the moon surface
+traveling at -0.740003 m/s
+Fuel: 145.600092
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+(3) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+(3) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+(3) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+(3) Name: AstroWhoops 18.570004 meters from the moon surface
+traveling at -0.540001 m/s
+Fuel: 113.200021
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: MoonMischief 18.199986 meters from the moon surface
+traveling at -0.650001 m/s
+Fuel: 145.315014
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: StarshipStumbler 18.099987 meters from the moon surface
+traveling at -0.650002 m/s
+Fuel: 144.250070
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: StarshipStumbler 18.099987 meters from the moon surface
+traveling at -0.650002 m/s
+Fuel: 144.250070
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(2) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+(3) Name: StarshipStumbler 18.099987 meters from the moon surface
+traveling at -0.650002 m/s
+Fuel: 144.250070
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(2) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(2) Name: GravityDodger 17.569993 meters from the moon surface
+traveling at -0.539998 m/s
+Fuel: 137.715958
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(2) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+(3) Name: AstroWhoops 17.750003 meters from the moon surface
+traveling at -0.820001 m/s
+Fuel: 111.800020
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+(2) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+(3) Name: MoonMischief 17.249987 meters from the moon surface
+traveling at -0.949999 m/s
+Fuel: 142.645031
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(2) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+(3) Name: GravityDodger 17.039992 meters from the moon surface
+traveling at -0.530000 m/s
+Fuel: 137.641975
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(2) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(3) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(2) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(3) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(2) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(3) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(2) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(3) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(2) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+(3) Name: AstroWhoops 16.760000 meters from the moon surface
+traveling at -0.990003 m/s
+Fuel: 110.950012
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(2) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(3) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(2) Name: GravityDodger 16.129994 meters from the moon surface
+traveling at -0.909999 m/s
+Fuel: 134.829987
+
+(3) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.729988 meters from the moon surface
+traveling at -0.519999 m/s
+Fuel: 138.818030
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 15.319997 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 134.089975
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+(3) Name: MoonMischief 16.059989 meters from the moon surface
+traveling at -0.669999 m/s
+Fuel: 137.483029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+(3) Name: AstroWhoops 16.029997 meters from the moon surface
+traveling at -0.730003 m/s
+Fuel: 109.650012
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 14.700001 meters from the moon surface
+traveling at -0.619995 m/s
+Fuel: 132.683961
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+(3) Name: MoonMischief 15.289992 meters from the moon surface
+traveling at -0.769997 m/s
+Fuel: 136.593046
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 15.159996 meters from the moon surface
+traveling at -0.870001 m/s
+Fuel: 108.950020
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.940006 meters from the moon surface
+traveling at -0.759995 m/s
+Fuel: 131.647963
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: AstroWhoops 14.619997 meters from the moon surface
+traveling at -0.539999 m/s
+Fuel: 107.300008
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: StarshipStumbler 14.619976 meters from the moon surface
+traveling at -0.790002 m/s
+Fuel: 132.849985
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: StarshipStumbler 14.619976 meters from the moon surface
+traveling at -0.790002 m/s
+Fuel: 132.849985
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+(3) Name: StarshipStumbler 14.619976 meters from the moon surface
+traveling at -0.790002 m/s
+Fuel: 132.849985
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+(3) Name: MoonMischief 14.369996 meters from the moon surface
+traveling at -0.919995 m/s
+Fuel: 135.258064
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(2) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+(3) Name: AstroWhoops 13.879997 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 106.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+(2) Name: GravityDodger 13.380013 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 130.167949
+
+(3) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 12.480021 meters from the moon surface
+traveling at -0.899992 m/s
+Fuel: 127.651953
+
+(2) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+(3) Name: MoonMischief 13.590001 meters from the moon surface
+traveling at -0.779995 m/s
+Fuel: 134.012062
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 12.480021 meters from the moon surface
+traveling at -0.899992 m/s
+Fuel: 127.651953
+
+(2) Name: MoonMischief 13.040007 meters from the moon surface
+traveling at -0.549994 m/s
+Fuel: 131.965053
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 12.480021 meters from the moon surface
+traveling at -0.899992 m/s
+Fuel: 127.651953
+
+(2) Name: MoonMischief 13.040007 meters from the moon surface
+traveling at -0.549994 m/s
+Fuel: 131.965053
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 12.480021 meters from the moon surface
+traveling at -0.899992 m/s
+Fuel: 127.651953
+
+(2) Name: MoonMischief 13.040007 meters from the moon surface
+traveling at -0.549994 m/s
+Fuel: 131.965053
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 13.040007 meters from the moon surface
+traveling at -0.549994 m/s
+Fuel: 131.965053
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 13.040007 meters from the moon surface
+traveling at -0.549994 m/s
+Fuel: 131.965053
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 13.319996 meters from the moon surface
+traveling at -0.560000 m/s
+Fuel: 105.400000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(2) Name: MoonMischief 12.330014 meters from the moon surface
+traveling at -0.709993 m/s
+Fuel: 130.541067
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+(3) Name: AstroWhoops 12.539996 meters from the moon surface
+traveling at -0.780000 m/s
+Fuel: 104.300000
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+(3) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+(3) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+(3) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+(3) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(2) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+(3) Name: GravityDodger 11.950027 meters from the moon surface
+traveling at -0.529993 m/s
+Fuel: 124.913961
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(2) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+(3) Name: AstroWhoops 11.789996 meters from the moon surface
+traveling at -0.750000 m/s
+Fuel: 104.150000
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(2) Name: GravityDodger 11.280031 meters from the moon surface
+traveling at -0.669996 m/s
+Fuel: 123.877943
+
+(3) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.770022 meters from the moon surface
+traveling at -0.559993 m/s
+Fuel: 129.206068
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(2) Name: AstroWhoops 11.029994 meters from the moon surface
+traveling at -0.760001 m/s
+Fuel: 104.099996
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(2) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(2) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(2) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(2) Name: GravityDodger 10.530033 meters from the moon surface
+traveling at -0.749998 m/s
+Fuel: 123.285925
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(3) Name: MoonMischief 11.230030 meters from the moon surface
+traveling at -0.539991 m/s
+Fuel: 129.028056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(3) Name: MoonMischief 10.720037 meters from the moon surface
+traveling at -0.509993 m/s
+Fuel: 128.761074
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(3) Name: MoonMischief 10.720037 meters from the moon surface
+traveling at -0.509993 m/s
+Fuel: 128.761074
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+(3) Name: MoonMischief 10.720037 meters from the moon surface
+traveling at -0.509993 m/s
+Fuel: 128.761074
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.940034 meters from the moon surface
+traveling at -0.589999 m/s
+Fuel: 122.101929
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.130037 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 120.473944
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.130037 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 120.473944
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.130037 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 120.473944
+
+(2) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+(3) Name: AstroWhoops 10.219995 meters from the moon surface
+traveling at -0.810000 m/s
+Fuel: 103.850004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 9.130037 meters from the moon surface
+traveling at -0.809997 m/s
+Fuel: 120.473944
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: MoonMischief 9.960044 meters from the moon surface
+traveling at -0.759993 m/s
+Fuel: 126.536079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+(3) Name: StarshipStumbler 9.649957 meters from the moon surface
+traveling at -0.690003 m/s
+Fuel: 110.049941
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: MoonMischief 9.220049 meters from the moon surface
+traveling at -0.739995 m/s
+Fuel: 126.358102
+
+(3) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: MoonMischief 9.220049 meters from the moon surface
+traveling at -0.739995 m/s
+Fuel: 126.358102
+
+(3) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: MoonMischief 9.220049 meters from the moon surface
+traveling at -0.739995 m/s
+Fuel: 126.358102
+
+(3) Name: AstroWhoops 9.429997 meters from the moon surface
+traveling at -0.789998 m/s
+Fuel: 103.749996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+(3) Name: MoonMischief 9.220049 meters from the moon surface
+traveling at -0.739995 m/s
+Fuel: 126.358102
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+(3) Name: MoonMischief 9.220049 meters from the moon surface
+traveling at -0.739995 m/s
+Fuel: 126.358102
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+(3) Name: StarshipStumbler 8.969953 meters from the moon surface
+traveling at -0.680004 m/s
+Fuel: 109.899945
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+(3) Name: StarshipStumbler 8.969953 meters from the moon surface
+traveling at -0.680004 m/s
+Fuel: 109.899945
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+(3) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 8.350042 meters from the moon surface
+traveling at -0.779996 m/s
+Fuel: 120.251936
+
+(2) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+(3) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+(3) Name: AstroWhoops 8.899999 meters from the moon surface
+traveling at -0.529998 m/s
+Fuel: 102.449996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 7.830047 meters from the moon surface
+traveling at -0.519995 m/s
+Fuel: 118.327933
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 8.260000 meters from the moon surface
+traveling at -0.639999 m/s
+Fuel: 101.899992
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: MoonMischief 8.470053 meters from the moon surface
+traveling at -0.749995 m/s
+Fuel: 126.269104
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: GravitationalGrazer 8.450029 meters from the moon surface
+traveling at -0.929998 m/s
+Fuel: 122.489153
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: StarshipStumbler 8.019948 meters from the moon surface
+traveling at -0.950005 m/s
+Fuel: 105.849922
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: StarshipStumbler 8.019948 meters from the moon surface
+traveling at -0.950005 m/s
+Fuel: 105.849922
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: StarshipStumbler 8.019948 meters from the moon surface
+traveling at -0.950005 m/s
+Fuel: 105.849922
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: StarshipStumbler 8.019948 meters from the moon surface
+traveling at -0.950005 m/s
+Fuel: 105.849922
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: MoonMischief 7.600058 meters from the moon surface
+traveling at -0.869996 m/s
+Fuel: 125.201100
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: MoonMischief 7.600058 meters from the moon surface
+traveling at -0.869996 m/s
+Fuel: 125.201100
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: MoonMischief 7.600058 meters from the moon surface
+traveling at -0.869996 m/s
+Fuel: 125.201100
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(2) Name: AstroWhoops 7.550003 meters from the moon surface
+traveling at -0.709997 m/s
+Fuel: 101.550000
+
+(3) Name: MoonMischief 7.600058 meters from the moon surface
+traveling at -0.869996 m/s
+Fuel: 125.201100
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(2) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(3) Name: MoonMischief 7.600058 meters from the moon surface
+traveling at -0.869996 m/s
+Fuel: 125.201100
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(2) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(2) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(2) Name: GravityDodger 6.920052 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 115.441934
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.420059 meters from the moon surface
+traveling at -0.499992 m/s
+Fuel: 112.407914
+
+(2) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.420059 meters from the moon surface
+traveling at -0.499992 m/s
+Fuel: 112.407914
+
+(2) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.420059 meters from the moon surface
+traveling at -0.499992 m/s
+Fuel: 112.407914
+
+(2) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(3) Name: MoonMischief 7.100062 meters from the moon surface
+traveling at -0.499995 m/s
+Fuel: 121.908098
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 6.420059 meters from the moon surface
+traveling at -0.499992 m/s
+Fuel: 112.407914
+
+(2) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(3) Name: LunacyLander 6.940031 meters from the moon surface
+traveling at -0.719999 m/s
+Fuel: 137.699954
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+(3) Name: LunacyLander 6.940031 meters from the moon surface
+traveling at -0.719999 m/s
+Fuel: 137.699954
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+(3) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+(3) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+(3) Name: AstroWhoops 6.880008 meters from the moon surface
+traveling at -0.669995 m/s
+Fuel: 101.349992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+(3) Name: StarshipStumbler 6.759941 meters from the moon surface
+traveling at -0.690005 m/s
+Fuel: 98.349859
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+(3) Name: StarshipStumbler 6.759941 meters from the moon surface
+traveling at -0.690005 m/s
+Fuel: 98.349859
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 5.480070 meters from the moon surface
+traveling at -0.939990 m/s
+Fuel: 109.151932
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.910013 meters from the moon surface
+traveling at -0.969995 m/s
+Fuel: 99.849992
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 6.180067 meters from the moon surface
+traveling at -0.919996 m/s
+Fuel: 118.170097
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: LunacyLander 6.020032 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 134.139970
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: LunacyLander 6.020032 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 134.139970
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: LunacyLander 6.020032 meters from the moon surface
+traveling at -0.919998 m/s
+Fuel: 134.139970
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 4.850081 meters from the moon surface
+traveling at -0.629988 m/s
+Fuel: 106.857921
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 5.070015 meters from the moon surface
+traveling at -0.839998 m/s
+Fuel: 99.200004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 5.210071 meters from the moon surface
+traveling at -0.969996 m/s
+Fuel: 117.725090
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 4.690075 meters from the moon surface
+traveling at -0.519996 m/s
+Fuel: 113.720088
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 4.500017 meters from the moon surface
+traveling at -0.569998 m/s
+Fuel: 97.850004
+
+(3) Name: MoonMischief 4.690075 meters from the moon surface
+traveling at -0.519996 m/s
+Fuel: 113.720088
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.690075 meters from the moon surface
+traveling at -0.519996 m/s
+Fuel: 113.720088
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.690075 meters from the moon surface
+traveling at -0.519996 m/s
+Fuel: 113.720088
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: LunacyLander 4.590034 meters from the moon surface
+traveling at -0.769999 m/s
+Fuel: 127.553971
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: LunacyLander 4.590034 meters from the moon surface
+traveling at -0.769999 m/s
+Fuel: 127.553971
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.860092 meters from the moon surface
+traveling at -0.989989 m/s
+Fuel: 104.193913
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: LunacyLander 4.590034 meters from the moon surface
+traveling at -0.769999 m/s
+Fuel: 127.553971
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.170102 meters from the moon surface
+traveling at -0.689990 m/s
+Fuel: 101.973916
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: LunacyLander 4.590034 meters from the moon surface
+traveling at -0.769999 m/s
+Fuel: 127.553971
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.170102 meters from the moon surface
+traveling at -0.689990 m/s
+Fuel: 101.973916
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.170102 meters from the moon surface
+traveling at -0.689990 m/s
+Fuel: 101.973916
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 3.170102 meters from the moon surface
+traveling at -0.689990 m/s
+Fuel: 101.973916
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: MoonMischief 4.130078 meters from the moon surface
+traveling at -0.559997 m/s
+Fuel: 113.364079
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+(3) Name: StarshipStumbler 4.029939 meters from the moon surface
+traveling at -0.609999 m/s
+Fuel: 88.749890
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+(3) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+(3) Name: AstroWhoops 3.870019 meters from the moon surface
+traveling at -0.629998 m/s
+Fuel: 97.550004
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.040019 meters from the moon surface
+traveling at -0.830000 m/s
+Fuel: 96.549996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.040019 meters from the moon surface
+traveling at -0.830000 m/s
+Fuel: 96.549996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.040019 meters from the moon surface
+traveling at -0.830000 m/s
+Fuel: 96.549996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.040019 meters from the moon surface
+traveling at -0.830000 m/s
+Fuel: 96.549996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 3.040019 meters from the moon surface
+traveling at -0.830000 m/s
+Fuel: 96.549996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+(3) Name: MoonMischief 3.310078 meters from the moon surface
+traveling at -0.820000 m/s
+Fuel: 111.050056
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+(3) Name: StarshipStumbler 3.179938 meters from the moon surface
+traveling at -0.850001 m/s
+Fuel: 85.149867
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+(3) Name: StarshipStumbler 3.179938 meters from the moon surface
+traveling at -0.850001 m/s
+Fuel: 85.149867
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 2.180110 meters from the moon surface
+traveling at -0.989992 m/s
+Fuel: 99.753902
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 1.520120 meters from the moon surface
+traveling at -0.659990 m/s
+Fuel: 97.311890
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 1.520120 meters from the moon surface
+traveling at -0.659990 m/s
+Fuel: 97.311890
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 2.380078 meters from the moon surface
+traveling at -0.930000 m/s
+Fuel: 110.071048
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 2.470020 meters from the moon surface
+traveling at -0.570000 m/s
+Fuel: 95.249996
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+(3) Name: AstroWhoops 1.730020 meters from the moon surface
+traveling at -0.740000 m/s
+Fuel: 94.399992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: StarshipStumbler 1.309938 meters from the moon surface
+traveling at -0.940001 m/s
+Fuel: 83.799856
+
+(3) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: StarshipStumbler 1.309938 meters from the moon surface
+traveling at -0.940001 m/s
+Fuel: 83.799856
+
+(3) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: StarshipStumbler 1.309938 meters from the moon surface
+traveling at -0.940001 m/s
+Fuel: 83.799856
+
+(3) Name: MoonMischief 1.500078 meters from the moon surface
+traveling at -0.880000 m/s
+Fuel: 109.626043
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.660130 meters from the moon surface
+traveling at -0.859990 m/s
+Fuel: 95.831891
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: StarshipStumbler 1.309938 meters from the moon surface
+traveling at -0.940001 m/s
+Fuel: 83.799856
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: StarshipStumbler 1.309938 meters from the moon surface
+traveling at -0.940001 m/s
+Fuel: 83.799856
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: AstroWhoops 1.020019 meters from the moon surface
+traveling at -0.710000 m/s
+Fuel: 94.249992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: AstroWhoops 1.020019 meters from the moon surface
+traveling at -0.710000 m/s
+Fuel: 94.249992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: AstroWhoops 1.020019 meters from the moon surface
+traveling at -0.710000 m/s
+Fuel: 94.249992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(3) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(3) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravityDodger 0.050140 meters from the moon surface
+traveling at -0.609991 m/s
+Fuel: 93.981897
+
+(2) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(3) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+
+Enter lander name and throttle amount: 
+GravityDodger landed :)
+(1) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(2) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+(3) Name: AstroWhoops 1.020019 meters from the moon surface
+traveling at -0.710000 m/s
+Fuel: 94.249992
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(2) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(3) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+
+Enter lander name and throttle amount: 
+(1) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(2) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+(3) Name: MoonMischief 0.790079 meters from the moon surface
+traveling at -0.709998 m/s
+Fuel: 108.113029
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: StarshipStumbler 0.329938 meters from the moon surface
+traveling at -0.980000 m/s
+Fuel: 83.199881
+
+
+Enter lander name and throttle amount: 
+StarshipStumbler landed :)
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: AstroWhoops 0.270021 meters from the moon surface
+traveling at -0.749999 m/s
+Fuel: 94.050000
+
+(3) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+
+Enter lander name and throttle amount: 
+AstroWhoops landed :)
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+(3) Name: MoonHopper 1.029972 meters from the moon surface
+traveling at -0.950000 m/s
+Fuel: 115.540030
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(3) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+
+Enter lander name and throttle amount: 
+(1) Name: MoonMischief 0.220082 meters from the moon surface
+traveling at -0.569997 m/s
+Fuel: 106.867019
+
+(2) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(3) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+
+Enter lander name and throttle amount: 
+MoonMischief landed :)
+(1) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(2) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+(3) Name: GalacticGiggle 0.990135 meters from the moon surface
+traveling at -0.579995 m/s
+Fuel: 80.331992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(2) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+(3) Name: GalacticGiggle 0.990135 meters from the moon surface
+traveling at -0.579995 m/s
+Fuel: 80.331992
+
+
+Enter lander name and throttle amount: 
+(1) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(2) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+(3) Name: MoonDance 0.890276 meters from the moon surface
+traveling at -0.539985 m/s
+Fuel: 67.999902
+
+
+Enter lander name and throttle amount: 
+(1) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(2) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+(3) Name: LunacyLander 0.800038 meters from the moon surface
+traveling at -0.559999 m/s
+Fuel: 116.339994
+
+
+Enter lander name and throttle amount: 
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(3) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+
+Enter lander name and throttle amount: 
+LunacyLander landed :)
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(3) Name: GravitationalGrazer 0.560057 meters from the moon surface
+traveling at -0.779998 m/s
+Fuel: 109.228091
+
+
+Enter lander name and throttle amount: 
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(3) Name: MoonHopper 0.479973 meters from the moon surface
+traveling at -0.549999 m/s
+Fuel: 113.140021
+
+
+Enter lander name and throttle amount: 
+GravitationalGrazer landed :)
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(3) Name: MoonHopper 0.479973 meters from the moon surface
+traveling at -0.549999 m/s
+Fuel: 113.140021
+
+
+Enter lander name and throttle amount: 
+MoonHopper landed :)
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+(3) Name: MoonDance 0.890276 meters from the moon surface
+traveling at -0.539985 m/s
+Fuel: 67.999902
+
+
+Enter lander name and throttle amount: 
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: MoonDance 0.380290 meters from the moon surface
+traveling at -0.509985 m/s
+Fuel: 67.249900
+
+(3) Name: LunarLeaper 0.419994 meters from the moon surface
+traveling at -0.760003 m/s
+Fuel: 114.400050
+
+
+Enter lander name and throttle amount: 
+LunarLeaper landed :)
+(1) Name: GalacticGiggle 0.080139 meters from the moon surface
+traveling at -0.909995 m/s
+Fuel: 79.242989
+
+(2) Name: MoonDance 0.380290 meters from the moon surface
+traveling at -0.509985 m/s
+Fuel: 67.249900
+
+
+Enter lander name and throttle amount: 
+GalacticGiggle landed :)
+(1) Name: MoonDance 0.380290 meters from the moon surface
+traveling at -0.509985 m/s
+Fuel: 67.249900
+
+
+Enter lander name and throttle amount: 
+MoonDance landed :)
+

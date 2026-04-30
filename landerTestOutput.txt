@@ -1,0 +1,38 @@
+GalacticGiggle is ahead
+
+GalacticGiggle 23.71m 95.75 gal -1.29 m/s
+MoonDance 25.58m 235.50 gal 0.58 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 22.16m 94.87 gal -1.55 m/s
+MoonDance 24.54m 235.50 gal -1.04 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 20.34m 94.00 gal -1.82 m/s
+MoonDance 24.73m 204.69 gal 0.19 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 19.97m 89.25 gal -0.38 m/s
+MoonDance 26.21m 172.60 gal 1.48 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 20.73m 85.46 gal 0.77 m/s
+MoonDance 26.06m 172.60 gal -0.14 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 22.69m 81.56 gal 1.95 m/s
+MoonDance 24.30m 172.60 gal -1.76 m/s
+GalacticGiggle is ahead
+
+GalacticGiggle 25.86m 77.53 gal 3.17 m/s
+MoonDance 22.23m 164.98 gal -2.07 m/s
+MoonDance is ahead
+
+GalacticGiggle 30.66m 72.18 gal 4.80 m/s
+MoonDance 18.87m 132.74 gal -3.36 m/s
+MoonDance is ahead
+
+GalacticGiggle 33.83m 72.18 gal 3.18 m/s
+MoonDance 17.26m 89.03 gal -1.61 m/s
+MoonDance is ahead
+

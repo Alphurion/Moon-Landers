@@ -1,0 +1,12 @@
+Peach 1
+
+Mario 2
+
+Bowser 5
+
+Luigi 6
+
+KoopaTroopa 8
+
+Wario 15
+
