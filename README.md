@@ -3,8 +3,8 @@
 This project uses a heap priority queue to update a set of moon landers, checking their velocity each second.
 
 
+<img width="720" height="896" alt="2026-05-0710-27-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5c857b57-0e0d-4bdc-ac69-587de0e74297" />
 
-https://github.com/user-attachments/assets/f9734676-1107-475c-885f-31f70c79764b
 
 ---
 
