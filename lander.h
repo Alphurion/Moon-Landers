@@ -1,3 +1,6 @@
+//Headers
+
+//Libraries
 #include <string>
 
 #ifndef LANDER_H
@@ -5,6 +8,17 @@
 
 class lander
 {
+
+private:
+	std::string name;
+	double flow_rate;
+	double velocity;
+	double altitude;
+	double fuel_amount;
+	bool stillLanding;
+	double lander_mass;
+	double max_fuel_consumption_rate;
+	double max_thrust;
 public:
 	lander(std::string = "", double = 0, double = 0,
 		double = 0, double = 0, double = 0);
@@ -22,16 +36,6 @@ public:
 	void simulate();
 
 	bool operator<(const lander&) const;
-private:
-	std::string name;
-	double flow_rate;
-	double velocity;
-	double altitude;
-	double fuel_amount;
-	bool stillLanding;
-	double lander_mass;
-	double max_fuel_consumption_rate;
-	double max_thrust;
 };
 
 #endif

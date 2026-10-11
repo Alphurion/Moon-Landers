@@ -1,6 +1,8 @@
+// Headers
 #include "lander.h"
+
+//Libraries
 #include <cmath>
-#include <iostream>
 #include <string>
 using namespace std;
 
@@ -61,9 +63,6 @@ bool lander::change_flow_rate(double r)
 void lander::simulate()
 {
   /*
-  Unfinished:
-
-  Done
   1. Calculate V_ins by (TIME * (flow_rate * max thrust)/(lander_mass *
   fuel_Amount)) - 1.62
   2. Increment velocity field by v
@@ -71,7 +70,6 @@ void lander::simulate()
   4. Update StillLanding
   5. Decrement Fuel_Amount by TIME * max_fuel_rate * | v|
   6. Set fuel amount to 0 if the amount results to negative for fuel amount
-
   */
   if (!this->stillLanding)
   {

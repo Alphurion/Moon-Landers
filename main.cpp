@@ -1,9 +1,11 @@
+// Headers
+#include "lander.h"
+#include "priorityQ.h"
+
+//Libraries
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <iomanip>
-#include "priorityQ.h"
-#include "lander.h"
 
 /*
 1. Prompt simulation txt name
