@@ -25,18 +25,21 @@ struct Vector3D {
     }
 };
 
+/*
+Lander class used for any rockets, satelites, etc.
+*/
 class lander
 {
 public:
   // name, meters, kg, kg, kg/s, m/s
-  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate,
-         double V_e) : dry_mass(), exhaust_velocity(), max_flow_rate(){} ;
+  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity)
+    : m_dry_mass(dry_mass), m_exhaust_velocity(exhaust_velocity), m_max_flow_rate(max_flow_rate){};
   
   char get_status() const;
-  Vector3D get_position() const { return this->pos; }
-  Vector3D get_velocity() const { return this->velocity; }
-  double get_mass() const { return this->fuel + this->dry_mass; }
-  double get_max_thrust() const { return max_flow_rate * exhaust_velocity; }
+  Vector3D get_position() const { return this->m_pos; }
+  Vector3D get_velocity() const { return this->m_velocity; }
+  double get_mass() const { return this->m_fuel + this->m_dry_mass; }
+  double get_max_thrust() const { return m_max_flow_rate * m_exhaust_velocity; }
 
   bool operator<(const lander &) const;
   bool operator==(const lander &) const;
@@ -44,10 +47,10 @@ public:
   void simulate();
 
 private:
-  Vector3D pos, velocity, thrust;
-  double fuel;
+  Vector3D m_pos, m_velocity, m_thrust;
+  double m_fuel;
   // total_mass = dry_mass + fuel
-  bool grounded;
-  std::string const name;
-  const double exhaust_velocity, dry_mass, max_flow_rate; // Exhaust velocity
+  bool m_grounded;
+  std::string const m_name;
+  const double m_exhaust_velocity, m_dry_mass, m_max_flow_rate; // Exhaust velocity
   };
