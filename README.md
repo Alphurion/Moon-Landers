@@ -1,14 +1,12 @@
 # Moon Lander Simulation
 
-This project uses a heap priority queue to update a set of moon landers, checking their velocity each second.
-
-
+This project is being overhauled with new physics simulations. New body header will reflect new physics calculations, using t = 0.005s as the new time step. Planning to implement orbital rotation of moon and earth 
 <img width="720" height="896" alt="2026-05-0710-27-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/5c857b57-0e0d-4bdc-ac69-587de0e74297" />
 
 
 ---
 
-## Overview
+## Overview (OLD)
 
 - Physics calculation to determine velocity and landing
 - Implements a priority queue to keep track of front lander

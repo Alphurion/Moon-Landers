@@ -29,8 +29,9 @@ class lander
 {
 public:
   // name, meters, kg, kg, kg/s, m/s
-  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity);
-
+  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate,
+         double V_e) : dry_mass(), exhaust_velocity(), max_flow_rate(){} ;
+  
   char get_status() const;
   Vector3D get_position() const { return this->pos; }
   Vector3D get_velocity() const { return this->velocity; }
