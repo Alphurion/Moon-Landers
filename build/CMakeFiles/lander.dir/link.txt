@@ -1,1 +1,0 @@
-/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/lander.dir/link.d CMakeFiles/lander.dir/src/body.cpp.o CMakeFiles/lander.dir/src/lander.cpp.o CMakeFiles/lander.dir/src/main.cpp.o CMakeFiles/lander.dir/src/priorityQ.cpp.o -o lander
