@@ -8,24 +8,20 @@ A rocket simulation project that uses a bit of abstraction, but accurate numbers
 Moon-Landers/
 ├── include/
 │   ├── body.h
-│   ├── lander.h
 │   └── priorityQ.h
 ├── src/
 │   ├── body.cpp
-│   ├── lander.cpp
 │   ├── main.cpp
 │   └── priorityQ.cpp
 └── tests/
     ├── io/
     │   ├── inputs/
-    │   │   ├── LanderInput.txt
+    |   |   └── priorityQTest.cpp
     │   │   └── Sim01.txt ... Sim06.txt
     │   └── expected/
     │       ├── redirected/
     │       └── interactive/
     └── unit/
-        ├── landerTest.cpp
-        └── priorityQTest.cpp
 ```
 
 ## Features
