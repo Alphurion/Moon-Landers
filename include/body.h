@@ -31,8 +31,7 @@ class lander
 {
 public:
   // name, meters, kg, kg, kg/s, m/s
-  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity)
-    : m_dry_mass(dry_mass), m_exhaust_velocity(exhaust_velocity), m_max_flow_rate(max_flow_rate){};
+  lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity);
   
   char get_status() const;
   Vector3D get_position() const { return this->m_pos; }
@@ -51,5 +50,7 @@ private:
   // total_mass = dry_mass + fuel
   bool m_grounded;
   std::string const m_name;
-  const double m_exhaust_velocity, m_dry_mass, m_max_flow_rate; // Exhaust velocity
+  const double m_exhaust_velocity;
+  const double m_dry_mass;
+  const double m_max_flow_rate; // Exhaust velocity
   };
