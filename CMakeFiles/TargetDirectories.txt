@@ -1,3 +1,0 @@
-/home/devin/Projects/Moon-Landers/CMakeFiles/moon_landers.dir
-/home/devin/Projects/Moon-Landers/CMakeFiles/edit_cache.dir
-/home/devin/Projects/Moon-Landers/CMakeFiles/rebuild_cache.dir
