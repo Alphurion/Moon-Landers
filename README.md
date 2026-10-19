@@ -8,9 +8,13 @@ A rocket simulation project that uses a bit of abstraction, but accurate numbers
 Moon-Landers/
 ├── include/
 │   ├── body.h
+|   ├── lander.h
+|   ├── system.h
+|   ├── grid.h
 │   └── priorityQ.h
 ├── src/
 │   ├── body.cpp
+|   ├── system.cpp
 │   ├── main.cpp
 │   └── priorityQ.cpp
 └── tests/
