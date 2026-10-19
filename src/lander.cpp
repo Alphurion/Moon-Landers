@@ -1,4 +1,5 @@
-#include "body.h"
+#include "lander.h"
+#include "system.h"
 
 // Initializes all values of a lander
 lander::lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity) : m_exhaust_velocity(exhaust_velocity), m_dry_mass(dry_mass), m_max_flow_rate(max_flow_rate) 
