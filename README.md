@@ -1,7 +1,7 @@
 # Moon Lander Simulation
 
 ## Overview
-A rocket simulation project that uses a bit of abstraction, but accurate numbers, to let you fly a rocker to the moon. Uses 0.005s timestep and csv input for controls. Ideally there will be a Qt framework to show visually show ships traveling as well as rotating bodies.
+A rocket simulation project that uses a bit of abstraction, but accurate numbers, to let you fly a rocket to the moon. Uses 0.005s timestep and csv input for controls. Ideally there will be a Qt framework to show visually show ships traveling as well as rotating bodies.
 
 ##  Project Outline
 ```
