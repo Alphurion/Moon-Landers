@@ -13,6 +13,28 @@ struct Vector3D {
     {
     return ((x == other.x) && (y == other.y) && (z == other.z));  
     }
+    bool operator<(const Vector3D &other) const
+    {
+        if ( x + y + z < other.x + other.y + other.z)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+    bool operator>(const Vector3D &other) const
+    {
+        if ( x + y + z > other.x + other.y + other.z)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
     //sqrt (x^2 + y^2 + z^2)
     double magnitude() const {
         return std::sqrt(x * x + y * y + z * z);
@@ -22,3 +44,4 @@ struct Vector3D {
       return (x + y + z);
     }
 };
+
