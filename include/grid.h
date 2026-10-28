@@ -35,6 +35,9 @@ struct Vector3D {
             return false;
         }
     }
+    Vector3D operator-(const Vector3D& other) const {
+        return Vector3D(x - other.x, y - other.y, z - other.z);
+    }
     //sqrt (x^2 + y^2 + z^2)
     double magnitude() const {
         return std::sqrt(x * x + y * y + z * z);

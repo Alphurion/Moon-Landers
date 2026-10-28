@@ -28,6 +28,3 @@ class interstellarObject
   
 };
 // System constant
-#ifndef SUN
-#define SUN interstellarObject("Sun", Vector3D(0, 0, 0), 696340000, 696340000, 1.989e30)
-#endif

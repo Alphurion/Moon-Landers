@@ -10,7 +10,7 @@ class lander
 public:
   // name, meters, kg, kg, kg/s, m/s
   lander(std::string name, Vector3D pos, double dry_mass, double fuel, double max_flow_rate, double exhaust_velocity);
-  
+  lander(const lander &other);
   char get_status() const;
   double get_mass() const { return this->m_fuel + this->m_dry_mass; }
   double get_max_thrust() const { return m_max_flow_rate * m_exhaust_velocity; }
