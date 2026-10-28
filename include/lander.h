@@ -21,6 +21,8 @@ public:
   void simulate();
 
 private:
+  friend class interstellarObject;
+  friend class PriorityQ;
   Vector3D m_pos, m_velocity, m_thrust;
   double m_fuel;
   // total_mass = dry_mass + fuel

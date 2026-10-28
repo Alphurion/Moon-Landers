@@ -1,9 +1,8 @@
 // Headers
-
+#include "lander.h"
 //Libraries
 #include <unordered_map>
 #include <cstdlib>
-#include <string>
 
 #ifndef PRIORITY_Q
 #define PRIORITY_Q

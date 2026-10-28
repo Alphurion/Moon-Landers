@@ -1,6 +1,6 @@
 // Headers
 #include "priorityQ.h"
-
+#include <string>
 //Libraries
 
 template <class t1, class t2> priorityQ<t1, t2>::priorityQ()

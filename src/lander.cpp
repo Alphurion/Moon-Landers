@@ -41,7 +41,15 @@ bool lander::operator==(const lander &) const
 
 bool lander::adjust_thrust(Vector3D thrust)
 {
-  if(thrust.magnitude() )
+  if(thrust.magnitude() > this->get_max_thrust())
+  { // If thrust change is greater than max change, increase as much as possible keeping the ratio
+    
+    return false;
+  }
+  else
+  { // Successful thrust adjustment
+    return true;
+  }
 }
 
 void simulate(){}
