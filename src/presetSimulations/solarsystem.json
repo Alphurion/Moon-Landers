@@ -1,0 +1,75 @@
+{
+  "name:": "Sol System",
+  "planets": [
+    "Mercury", {
+      "mass": 3.3011e23,
+      "r_surface": 2439.7e3,
+      "r_atmos": 0,
+      "position": [57.91e9, 0, 0],
+      "velocity": [0, 47.36e3, 0]
+    },
+    "Venus", {
+      "mass": 4.8675e24,
+      "r_surface": 6051.8e3,
+      "r_atmos": 250e3,
+      "position": [108.2e9, 0, 0],
+      "velocity": [0, 35.02e3, 0]
+    },
+    "Earth", {
+      "mass": 5.972e24,
+      "r_surface": 6371e3,
+      "r_atmos": 100e3,
+      "position": [0, 0, 0],
+      "velocity": [0, 0, 0]
+    },
+    "Moon", {
+      "mass": 7.34767309e22,
+      "r_surface": 1737.4e3,
+      "r_atmos": 0,
+      "position": [384400e3, 0, 0],
+      "velocity": [0, 1022, 0]
+    },
+    "Mars", {
+      "mass": 6.4171e23,
+      "r_surface": 3389.5e3,
+      "r_atmos": 11e3,
+      "position": [227.9e9, 0, 0],
+      "velocity": [0, 24.077e3, 0]
+    },
+    "Jupiter", {
+      "mass": 1.8982e27,
+      "r_surface": 69911e3,
+      "r_atmos": 1000e3,
+      "position": [778.5e9, 0, 0],
+      "velocity": [0, 13.07e3, 0]
+    },
+    "Saturn", {
+      "mass": 5.6834e26,
+      "r_surface": 58232e3,
+      "r_atmos": 1000e3,
+      "position": [1.433e12, 0, 0],
+      "velocity": [0, 9.69e3, 0]
+    },
+    "Uranus", {
+      "mass": 8.6810e25,
+      "r_surface": 25362e3,
+      "r_atmos": 1000e3,
+      "position": [2.872e12, 0, 0],
+      "velocity": [0, 6.81e3, 0]
+    },
+    "Neptune", {
+      "mass": 1.02413e26,
+      "r_surface": 24622e3,
+      "r_atmos": 1000e3,
+      "position": [4.495e12, 0, 0],
+      "velocity": [0, 5.43e3, 0]
+    },
+    "Pluto", {
+      "mass": 1.303e22,
+      "r_surface": 1188.3e3,
+      "r_atmos": 0,
+      "position": [5.906e12, 0, 0],
+      "velocity": [0, 4.74e3, 0]
+    }
+  ]
+}
